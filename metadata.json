@@ -1,0 +1,10 @@
+{
+  "name": "SkyBrief Weather",
+  "description": "Immersive real-time weather application with geolocation, hourly timeline, and weekly planning forecast details.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
